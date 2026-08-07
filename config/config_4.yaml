@@ -1,0 +1,11 @@
+# 配置文件4
+project:
+  name: ai-xinxue-knowledge-base
+  version: 1.0.0
+
+settings:
+  debug: false
+  log_level: INFO
+
+database:
+  url: sqlite:///data/knowledge_4.db
