@@ -1,9 +1,10 @@
+"""测试示例"""
 import pytest
 
-def test_example_3():
-    \"\"\"测试示例3\"\"\"
+def test_example():
+    """测试示例功能"""
     assert True
 
-def test_example_3_error():
-    \"\"\"测试错误处理\"\"\"
+def test_example_error():
+    """测试错误处理"""
     assert True
